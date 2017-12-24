@@ -33,7 +33,7 @@
 ### Spanish
 
 
-### Boilerplates
+## Boilerplates
 
 - [Metal app with Parcel Bundler](https://github.com/matuzalemsteles/metal-parcel-example)
 
