@@ -98,6 +98,7 @@
 - [TodoList with WeDeploy](https://github.com/liferay-labs-br/metal-todo-list)
 - [Simple TodoList](https://github.com/matuzalemsteles/metal-todo-list)
 - [Metal Examples](https://github.com/metal/metal-examples)
+- [Metal Mathematics](https://github.com/interaminense/metal-math)
 
 ## Utils
 
