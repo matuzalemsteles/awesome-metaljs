@@ -29,6 +29,7 @@
 ### English
 
 ### Portuguese
+- [Criando um game de operações matemáticas com MetalJSX](https://medium.com/liferay-engineering-brazil/criando-um-game-de-opera%C3%A7%C3%B5es-matem%C3%A1ticas-com-metaljsx-316e02298620)
 
 ### Spanish
 
@@ -97,7 +98,6 @@
 - [TodoList with WeDeploy](https://github.com/liferay-labs-br/metal-todo-list)
 - [Simple TodoList](https://github.com/matuzalemsteles/metal-todo-list)
 - [Metal Examples](https://github.com/metal/metal-examples)
-
 
 ## Utils
 
