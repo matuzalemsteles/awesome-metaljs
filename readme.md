@@ -37,6 +37,7 @@
 ## Boilerplates
 
 - [Metal app with Parcel Bundler](https://github.com/matuzalemsteles/metal-parcel-example)
+- [Metal JSX Boilerplate](https://github.com/interaminense/metal-jsx-boilerplate)
 
 
 ## Components
