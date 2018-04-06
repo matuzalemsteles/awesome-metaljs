@@ -39,38 +39,37 @@
 - [Metal app with Parcel Bundler](https://github.com/matuzalemsteles/metal-parcel-example)
 - [Metal JSX Boilerplate](https://github.com/interaminense/metal-jsx-boilerplate)
 
-
 ## Components
 
-- [Metal Router](https://github.com/metal/metal-router)
-- [Metal Drag Drop](https://github.com/metal/metal-drag-drop)
+- [Metal Router](https://github.com/metal/metal-plugins/tree/master/packages/metal-router)
+- [Metal Drag Drop](https://github.com/metal/metal-plugins/tree/master/packages/metal-drag-drop)
 
 ### Clay Components
 
 > Clay components is the implementation of [claycss.com](https://claycss.com).
 
-- [ClayAlert](https://github.com/metal/metal-clay-components/tree/master/packages/clay-alert)
-- [ClayBadge](https://github.com/metal/metal-clay-components/tree/master/packages/clay-badge)
-- [ClayButton](https://github.com/metal/metal-clay-components/tree/master/packages/clay-button)
-- [ClayCardGrid](https://github.com/metal/metal-clay-components/tree/master/packages/clay-card-grid)
-- [ClayCard](https://github.com/metal/metal-clay-components/tree/master/packages/clay-card)
-- [ClayCharts](https://github.com/metal/metal-clay-components/tree/master/packages/clay-charts)
-- [ClayCheckbox](https://github.com/metal/metal-clay-components/tree/master/packages/clay-checkbox)
-- [ClayCollapse](https://github.com/metal/metal-clay-components/tree/master/packages/clay-collapse)
-- [ClayComponent](https://github.com/metal/metal-clay-components/tree/master/packages/clay-component)
-- [ClayDropdown](https://github.com/metal/metal-clay-components/tree/master/packages/clay-dropdown)
-- [ClayIcon](https://github.com/metal/metal-clay-components/tree/master/packages/clay-icon)
-- [ClayLabel](https://github.com/metal/metal-clay-components/tree/master/packages/clay-label)
-- [ClayLink](https://github.com/metal/metal-clay-components/tree/master/packages/clay-link)
-- [ClayList](https://github.com/metal/metal-clay-components/tree/master/packages/clay-list)
-- [ClayManagementToolbar](https://github.com/metal/metal-clay-components/tree/master/packages/clay-management-toolbar)
-- [ClayModal](https://github.com/metal/metal-clay-components/tree/master/packages/clay-modal)
-- [ClayNavigationBar](https://github.com/metal/metal-clay-components/tree/master/packages/clay-navigation-bar)
-- [ClayProgressBar](https://github.com/metal/metal-clay-components/tree/master/packages/clay-progress-bar)
-- [ClayRadio](https://github.com/metal/metal-clay-components/tree/master/packages/clay-radio)
-- [ClaySelect](https://github.com/metal/metal-clay-components/tree/master/packages/clay-select)
-- [ClaySticker](https://github.com/metal/metal-clay-components/tree/master/packages/clay-sticker)
-- [ClayTable](https://github.com/metal/metal-clay-components/tree/master/packages/clay-table)
+- [ClayAlert](https://github.com/liferay/clay/tree/master/packages/clay-alert)
+- [ClayBadge](https://github.com/liferay/clay/tree/master/packages/clay-badge)
+- [ClayButton](https://github.com/liferay/clay/tree/master/packages/clay-button)
+- [ClayCardGrid](https://github.com/liferay/clay/tree/master/packages/clay-card-grid)
+- [ClayCard](https://github.com/liferay/clay/tree/master/packages/clay-card)
+- [ClayCharts](https://github.com/liferay/clay/tree/master/packages/clay-charts)
+- [ClayCheckbox](https://github.com/liferay/clay/tree/master/packages/clay-checkbox)
+- [ClayCollapse](https://github.com/liferay/clay/tree/master/packages/clay-collapse)
+- [ClayComponent](https://github.com/liferay/clay/tree/master/packages/clay-component)
+- [ClayDropdown](https://github.com/liferay/clay/tree/master/packages/clay-dropdown)
+- [ClayIcon](https://github.com/liferay/clay/tree/master/packages/clay-icon)
+- [ClayLabel](https://github.com/liferay/clay/tree/master/packages/clay-label)
+- [ClayLink](https://github.com/liferay/clay/tree/master/packages/clay-link)
+- [ClayList](https://github.com/liferay/clay/tree/master/packages/clay-list)
+- [ClayManagementToolbar](https://github.com/liferay/clay/tree/master/packages/clay-management-toolbar)
+- [ClayModal](https://github.com/liferay/clay/tree/master/packages/clay-modal)
+- [ClayNavigationBar](https://github.com/liferay/clay/tree/master/packages/clay-navigation-bar)
+- [ClayProgressBar](https://github.com/liferay/clay/tree/master/packages/clay-progress-bar)
+- [ClayRadio](https://github.com/liferay/clay/tree/master/packages/clay-radio)
+- [ClaySelect](https://github.com/liferay/clay/tree/master/packages/clay-select)
+- [ClaySticker](https://github.com/liferay/clay/tree/master/packages/clay-sticker)
+- [ClayTable](https://github.com/liferay/clay/tree/master/packages/clay-table)
 
 ### Marble Components
 
@@ -103,10 +102,10 @@
 
 ## Utils
 
-- [Metal Ajax](https://github.com/metal/metal-ajax)
-- [Metal Uri](https://github.com/metal/metal-uri)
-- [Metal Promise](https://github.com/metal/metal-promise)
-- [Metal Position](https://github.com/metal/metal-position)
+- [Metal Ajax](https://github.com/metal/metal-plugins/tree/master/packages/metal-ajax)
+- [Metal Uri](https://github.com/metal/metal-plugins/tree/master/packages/metal-uri)
+- [Metal Promise](https://github.com/metal/metal-plugins/tree/master/packages/metal-promise)
+- [Metal Position](https://github.com/metal/metal-plugins/tree/master/packages/metal-position)
 - [Metal Redux](https://github.com/metal/metal-redux)
 - [Metal Structs](https://github.com/metal/metal-structs)
 - [Metal Flux](https://github.com/metal/metal-flux)
