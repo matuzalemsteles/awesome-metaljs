@@ -3,10 +3,11 @@
 > A collection of awesome things regarding [metal.js](https://metaljs.com) ecosystem.
 
 ## Ecosystem
-- [Website](https://metaljs.com)
-- [Repository](https://github.com/metal/metal.js)
 - [Documentation](https://metaljs.com/docs/)
+- [Repository](https://github.com/metal/metal.js)
 - [Slack](https://community-chat.liferay.com/)
+- [Spectrum community](https://spectrum.chat/metaljs)
+- [Website](https://metaljs.com)
 
 ## Contents
 
