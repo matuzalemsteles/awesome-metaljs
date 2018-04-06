@@ -66,6 +66,7 @@
 - [ClayManagementToolbar](https://github.com/liferay/clay/tree/master/packages/clay-management-toolbar)
 - [ClayModal](https://github.com/liferay/clay/tree/master/packages/clay-modal)
 - [ClayNavigationBar](https://github.com/liferay/clay/tree/master/packages/clay-navigation-bar)
+- [ClayPaginationBar](https://github.com/liferay/clay/tree/master/packages/clay-pagination-bar)
 - [ClayProgressBar](https://github.com/liferay/clay/tree/master/packages/clay-progress-bar)
 - [ClayRadio](https://github.com/liferay/clay/tree/master/packages/clay-radio)
 - [ClaySelect](https://github.com/liferay/clay/tree/master/packages/clay-select)
