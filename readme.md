@@ -57,6 +57,7 @@
 - [ClayCheckbox](https://github.com/liferay/clay/tree/master/packages/clay-checkbox)
 - [ClayCollapse](https://github.com/liferay/clay/tree/master/packages/clay-collapse)
 - [ClayComponent](https://github.com/liferay/clay/tree/master/packages/clay-component)
+- [ClayDatasetDisplay](https://github.com/liferay/clay/tree/master/packages/clay-dataset-display)
 - [ClayDropdown](https://github.com/liferay/clay/tree/master/packages/clay-dropdown)
 - [ClayIcon](https://github.com/liferay/clay/tree/master/packages/clay-icon)
 - [ClayLabel](https://github.com/liferay/clay/tree/master/packages/clay-label)
